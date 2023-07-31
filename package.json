@@ -20,7 +20,7 @@
 		"@sveltejs/kit": "^1.10.0",
 		"@types/common-tags": "^1.8.1",
 		"@typescript-eslint/eslint-plugin": "^5.54.0",
-		"@typescript-eslint/parser": "^5.54.0",
+		"@typescript-eslint/parser": "^6.0.0",
 		"autoprefixer": "^10.4.13",
 		"daisyui": "^3.0.1",
 		"eslint": "^8.35.0",
